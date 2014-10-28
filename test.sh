@@ -6,3 +6,6 @@
 
 # it assumes java is in the system path
 
+ant compile
+ant jar
+ant run
